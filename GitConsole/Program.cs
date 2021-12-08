@@ -7,6 +7,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wm1");
+
             Console.WriteLine("Mesut Öztürk");
             Console.WriteLine("Emre");
             Console.WriteLine("Resul");
@@ -19,9 +20,10 @@ namespace GitConsole
             Console.WriteLine("Arda");
             Console.WriteLine("Sait");
             Console.WriteLine("Eda");
-            Console.WriteLine("Fatih");
-            Console.WriteLine("Emre");
-            Console.WriteLine("Yiğit");
+            Console.WriteLine("Onur");
+>>>>>>> 66672b78685eee972b692f8ef69e8d13b8b1d972
+            Console.WriteLine("Osman");
+            Console.WriteLine("Ronaldo");
         }
     }
 }
