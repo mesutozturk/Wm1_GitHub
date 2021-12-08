@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace GitConsole.Models
 {
-    class Arda
+    public class MertVurgun
     {
-        public int ID { get; set; }
-        public int Name { get; set; }
-        public int Surname { get; set; }
-        
+        public string Ad { get; set; }
+        public string Soyad { get; set; }
     }
 }
