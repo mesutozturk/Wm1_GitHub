@@ -13,6 +13,12 @@ namespace GitConsole
             Console.WriteLine("Resul");
             Console.WriteLine("Messi");
             Console.WriteLine("Yunus");
+            Console.WriteLine("Ahmet");
+            Console.WriteLine("Mesut");
+            Console.WriteLine("EmreBahar");
+            Console.WriteLine("Arda");
+            Console.WriteLine("Sait");
+            Console.WriteLine("Eda");
             Console.WriteLine("Onur");
         }
     }
