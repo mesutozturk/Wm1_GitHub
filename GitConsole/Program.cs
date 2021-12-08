@@ -7,6 +7,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wm1");
+            Console.WriteLine("Hello Wm1");
 
             Console.WriteLine("Mesut Öztürk");
             Console.WriteLine("Emre");
@@ -20,6 +21,18 @@ namespace GitConsole
             Console.WriteLine("Arda");
             Console.WriteLine("Sait");
             Console.WriteLine("Eda");
+            Console.WriteLine("Onur");
+            Console.WriteLine("Onur");
+            Console.WriteLine("Osman");
+            Console.WriteLine("Emre");
+            Console.WriteLine("Göker");
+            Console.WriteLine("Ronaldo");
+            Console.WriteLine("Göker");
+            Console.WriteLine("Yiğit");
+            Console.WriteLine("İrem");
+            Console.WriteLine("Cok sukur sonunda yaptım:D");
+
+
             Console.WriteLine("Fatih");
             Console.WriteLine("Onur");
             Console.WriteLine("Osman");
