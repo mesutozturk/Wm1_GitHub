@@ -31,7 +31,7 @@ namespace GitConsole
             Console.WriteLine("Göker");
             Console.WriteLine("Ronaldo");
             Console.WriteLine("Göker");
-
+            Console.WriteLine("İrem");
         }
     }
 }
