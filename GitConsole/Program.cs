@@ -7,6 +7,9 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wm1");
+            Console.WriteLine("Mesut Öztürk");
+            Console.WriteLine("Emre");
+            Console.WriteLine("Resul");
             Console.WriteLine("Mesut");
             Console.WriteLine("EmreBahar");
         }
