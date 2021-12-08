@@ -11,5 +11,6 @@ namespace GitConsole.Models
         public int JerseyNumber { get; set; }
         public int BallondorSayisi { get; set; }
         public int TeamName { get; set; }
+
     }
 }
