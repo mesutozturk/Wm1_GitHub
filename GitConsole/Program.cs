@@ -27,6 +27,11 @@ namespace GitConsole
             Console.WriteLine("Göker");
             Console.WriteLine("Ronaldo");
             Console.WriteLine("Göker");
+            Console.WriteLine("Yiğit");
+            Console.WriteLine("İrem");
+            Console.WriteLine("Cok sukur sonunda yaptım:D");
+
+
         }
     }
 }
