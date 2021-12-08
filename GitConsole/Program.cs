@@ -20,6 +20,8 @@ namespace GitConsole
             Console.WriteLine("Sait");
             Console.WriteLine("Eda");
             Console.WriteLine("Onur");
+            ResulYag resulYag = new ResulYag();
+            resulYag.GetName();
         }
     }
 }
