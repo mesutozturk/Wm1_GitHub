@@ -25,6 +25,7 @@ namespace GitConsole
             Console.WriteLine("Onur");
 >>>>>>> 66672b78685eee972b692f8ef69e8d13b8b1d972
             Console.WriteLine("Osman");
+            Console.WriteLine("Ronaldo");
         }
     }
 }
