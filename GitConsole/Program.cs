@@ -8,8 +8,6 @@ namespace GitConsole
         {
             Console.WriteLine("Hello Wm1");
             Console.WriteLine("Hello Wm1");
-
-=======
             Console.WriteLine("Mesut Öztürk");
             Console.WriteLine("Emre");
             Console.WriteLine("Resul");
@@ -30,9 +28,6 @@ namespace GitConsole
             Console.WriteLine("Yiğit");
             Console.WriteLine("İrem");
             Console.WriteLine("Cok sukur sonunda yaptım:D");
-
-
->>>>>>> 66672b78685eee972b692f8ef69e8d13b8b1d972
             Console.WriteLine("Osman");
         }
     }
