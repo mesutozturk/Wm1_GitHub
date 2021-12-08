@@ -24,15 +24,12 @@ namespace GitConsole
             Console.WriteLine("Emre");
             Console.WriteLine("Yiğit");
             Console.WriteLine("Onur");
-            ResulYag resulYag = new ResulYag();
-            resulYag.GetName();
             Console.WriteLine("Onur");
             Console.WriteLine("Osman");
             Console.WriteLine("Emre");
             Console.WriteLine("Göker");
             Console.WriteLine("Ronaldo");
             Console.WriteLine("Göker");
-            Console.WriteLine("İrem");
         }
     }
 }
