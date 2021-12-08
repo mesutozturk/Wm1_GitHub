@@ -9,6 +9,7 @@ namespace GitConsole
             Console.WriteLine("Hello Wm1");
             Console.WriteLine("Mesut");
             Console.WriteLine("Emre");
+            Console.WriteLine("Resul");
         }
     }
 }
