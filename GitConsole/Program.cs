@@ -28,7 +28,12 @@ namespace GitConsole
             resulYag.GetName();
             Console.WriteLine("Onur");
             Console.WriteLine("Osman");
+            Console.WriteLine("Mesut Öztürk");
+            Console.WriteLine("Emre");
+            Console.WriteLine("Göker");
             Console.WriteLine("Ronaldo");
+            Console.WriteLine("Göker");
+
         }
     }
 }
