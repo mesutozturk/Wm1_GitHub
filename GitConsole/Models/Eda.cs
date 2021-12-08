@@ -8,12 +8,7 @@ namespace GitConsole
 {
     class Eda
     {
-
-
-
-
-
-
-
+       public int Id { set;  get; }
+     
     }
 }
