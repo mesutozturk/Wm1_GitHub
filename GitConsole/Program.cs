@@ -10,6 +10,7 @@ namespace GitConsole
             Console.WriteLine("Mesut");
             Console.WriteLine("Emre");
             Console.WriteLine("Resul");
+            Console.WriteLine("Ahmet");
         }
     }
 }
