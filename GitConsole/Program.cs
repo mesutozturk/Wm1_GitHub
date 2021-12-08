@@ -17,6 +17,7 @@ namespace GitConsole
             Console.WriteLine("Mesut");
             Console.WriteLine("EmreBahar");
             Console.WriteLine("Arda");
+            Console.WriteLine("Eda");
         }
     }
 }
