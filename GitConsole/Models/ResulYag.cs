@@ -8,6 +8,8 @@ namespace GitConsole
 {
     class ResulYag
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
         public void GetName()
         {
             Console.WriteLine("Resul YAG");
