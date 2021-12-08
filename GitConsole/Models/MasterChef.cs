@@ -8,7 +8,7 @@ namespace GitConsole.Models
 {
     public class MasterChef
     {
-        public int Ad { get; set; }
-        public string Soyad { get; set; }
+        public int Id { get; set; }
+        public string Ad { get; set; }
     }
 }
