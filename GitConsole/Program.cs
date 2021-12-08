@@ -11,6 +11,8 @@ namespace GitConsole
             Console.WriteLine("Emre");
             Console.WriteLine("Mert Vurgun");
             Console.WriteLine("Resul");
+            Console.WriteLine("Messi");
+            Console.WriteLine("Yunus");
         }
     }
 }
