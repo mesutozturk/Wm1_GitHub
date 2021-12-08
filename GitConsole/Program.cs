@@ -7,7 +7,6 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Wm1");
-
             Console.WriteLine("Mesut Öztürk");
             Console.WriteLine("Emre");
             Console.WriteLine("Resul");
@@ -24,16 +23,12 @@ namespace GitConsole
             Console.WriteLine("Emre");
             Console.WriteLine("Yiğit");
             Console.WriteLine("Onur");
-            ResulYag resulYag = new ResulYag();
-            resulYag.GetName();
             Console.WriteLine("Onur");
             Console.WriteLine("Osman");
-            Console.WriteLine("Mesut Öztürk");
             Console.WriteLine("Emre");
             Console.WriteLine("Göker");
             Console.WriteLine("Ronaldo");
             Console.WriteLine("Göker");
-
         }
     }
 }
