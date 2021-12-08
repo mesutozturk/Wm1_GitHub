@@ -20,6 +20,7 @@ namespace GitConsole
             Console.WriteLine("Sait");
             Console.WriteLine("Eda");
             Console.WriteLine("Onur");
+            Console.WriteLine("Ronaldo");
         }
     }
 }
