@@ -8,5 +8,6 @@ namespace GitConsole
 {
     internal class Context
     {
+        
     }
 }
